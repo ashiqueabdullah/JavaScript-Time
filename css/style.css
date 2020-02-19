@@ -1,0 +1,17 @@
+.clock{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: 100%;
+    position:relative;
+}
+.clock .box{
+    border: 1px solid white;
+    padding: 10px 20px;
+    width: 280px;
+    margin: 20% 40%;
+    position: absolute;
+}
+.clock .box h1{
+    text-align: center;
+}
